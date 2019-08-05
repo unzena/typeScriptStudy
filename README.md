@@ -1,5 +1,3 @@
-# typeScriptStudy
-typescript 스터디
+# Typechain
 
-#git test
-test 완료
+Learning Typescript by making a Blockchain with it
